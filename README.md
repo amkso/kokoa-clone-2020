@@ -9,11 +9,9 @@
 1. CSS mdn
    link : https://developer.mozilla.org/ko/docs/Web/CSS
 
-2. Heroicons
+2. Icons(Heroicons, Fontawesome)
    link : https://heroicons.com/
-
-3. Fontawesome
    link : https://fontawesome.com/
 
-4. Google fonts
+3. Google fonts
    link : https://fonts.google.com/
