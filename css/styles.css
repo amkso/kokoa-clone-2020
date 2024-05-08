@@ -17,6 +17,7 @@ font-weight: <weight>;
 /* Screens */
 @import "screens//login.css";
 @import "screens//friends.css";
+@import "screens//find.css";
 
 body{
     margin-top: 40px;
